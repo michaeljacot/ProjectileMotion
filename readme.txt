@@ -1,5 +1,5 @@
 Michael Jacot de Boinod
-B00772705
+
 
 **********                           **********
 **********Please Read This Before Use**********
@@ -34,7 +34,7 @@ attempts to simulate motion of a projectile in three dimensions by solving a set
 with user inputted data. The output of the calculation is plotted on a three dimensional plane
 using the graphical package vpython. The python library tkinter is also used to create the GUI in which
 the initial parameters are set. There are three main "classes" in this program. I put the quotes around 
-"classes" because I don’t actually use any of the syntax to create actual class structures, I instead 
+"classes" because I donâ€™t actually use any of the syntax to create actual class structures, I instead 
 have methods inside each python file that call each other. 
 
 The file guiSim.py is the main class (the one you run have to run first) 
